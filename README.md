@@ -1,4 +1,4 @@
-# <Hello>您好👋,&nbsp;I'm&nbsp;M0rtzz</Hello>
+# <Hello>同志👋🏻,&nbsp;I'm&nbsp;M0rtzz</Hello>
 
 I'm an undergraduate student at ZZU and will be pursuing a PhD in Computer Science at HUST in 2025. I also enjoy practicing dhyana 🧘🏻‍♂️ and going hiking 🚶🏻‍♂️, but I steer clear of dangerous activities. I post blogs on [m0rtzz.com](https://www.m0rtzz.com).
 
